@@ -1,4 +1,4 @@
-# Datepicker
+# Vue-idatepicker
 
 Vue datepicker component. Compatible with Vue 2.x
 
