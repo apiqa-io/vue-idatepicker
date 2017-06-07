@@ -6,6 +6,10 @@ Vue datepicker component. Compatible with Vue 2.x
 
 - [Vue.js](https://github.com/yyx990803/vue) `^2.0.0`
 
+## Example
+
+![Screenshot](screenshot.png)
+
 ## Usage
 
 ```html
@@ -101,6 +105,7 @@ error = {
 ## Slots
 
 There is one default slot, where you can place icons, validations or any additional html
+
 
 ## License
 
