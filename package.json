@@ -1,0 +1,28 @@
+{
+  "name": "vue-idatepicker",
+  "version": "1.0.0",
+  "description": "Vue.js datepicker inspired by iOS datepicker",
+  "main": "Datepicker.vue",
+  "peerDependencies": {
+    "vue": ">=2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SYNC-SU/vue-idatepicker.git"
+  },
+  "keywords": [
+    "vue",
+    "datepicker",
+    "vue-datepicker",
+    "date-picker"
+  ],
+  "author": "Anton Lyaptsev <anton.lyaptsev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SYNC-SU/vue-idatepicker/issues"
+  },
+  "homepage": "https://github.com/SYNC-SU/vue-idatepicker#readme"
+}
