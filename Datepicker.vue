@@ -49,8 +49,7 @@
           return {}
         }
       },
-      date: null,
-      action: { type: Function }
+      date: null
     },
     data () {
       return {
@@ -72,12 +71,12 @@
           finishDate: new Date(),
           styles: {
             pickerWidth: '100%',
-            pickerShadow: '3px 4px 18px 0px rgba(115, 115, 115, 0.6)',
+            pickerShadow: null,
             clearColor: '#358ed7',
             selectedBackground: '#358ed7',
             selectedColor: '#fff',
-            disabledColor: 'rgba(115, 115, 115, 0.7)',
-            placeholderColor: 'rgba(115, 115, 115, 0.7)',
+            disabledColor: 'gray',
+            placeholderColor: 'gray',
             textColor: '#1b212b'
           }
         }
